@@ -1,4 +1,4 @@
-# Userò questo file come punto di partenza per ogni nuova giornata
+## Userò questo file come punto di partenza per ogni nuovo report giornaliero che scriverò.
 
 # Diario - {{YYYY-MM-DD}}
 
