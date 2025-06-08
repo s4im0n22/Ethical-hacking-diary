@@ -1,5 +1,5 @@
-# Diario di ethical hacking
-Benvenuto! Questo sarà il mio diario in cui documento il mio percorso alla scoperta dell'ethical hacking
+# Diario di ethical hacking👨🏻‍💻
+Benvenuto! Questo sarà il mio diario in cui documento il mio percorso alla scoperta dell'ethical hacking.
 
 ## 🎯 Obiettivi
 - Apprendere i comandi di Linux e di eventuali software necessari
